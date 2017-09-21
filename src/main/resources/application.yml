@@ -1,0 +1,17 @@
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://121.196.217.247:3306/weifactory?characterEncoding=utf-8
+    username: root
+    password: jsdxngyzzy666
+    driver-class-name: com.mysql.jdbc.Driver
+
+wechat:
+  appid: wxc4067348a27be3b9
+  appSecret: 410f2a579f8add4e4054d5806b287854
+  domain: saber.nat100.top
+  mchid: 1394334902
+  apikey: cqmygysdssjtwmydtsgxs1754299360s
